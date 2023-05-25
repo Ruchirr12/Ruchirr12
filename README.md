@@ -3,10 +3,6 @@
 <h2 align="center"> Hi there! <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="width: 50px; display: inline-block;" data-target="animated-image.originalimage">
 </h2>
 
-<h2 align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/niharika-tewari-b29033116/">
-
     
     
 <img align="right" alt="coding" widht="200" src="https://th.bing.com/th/id/R.b9b75ef8592bf4c7a8849a3412ea9035?rik=WuJQxtG9q5FuPQ&riu=http%3a%2f%2f38.media.tumblr.com%2fd98c7e0c53e1aaa8521ddcb31a421373%2ftumblr_nbyrlaLLDw1s141c3o1_r1_400.gif&ehk=onWrUPYvehhLEFyCyw344EQBNMgR0da9I1z4gTSbc%2bc%3d&risl=&pid=ImgRaw&r=0">
